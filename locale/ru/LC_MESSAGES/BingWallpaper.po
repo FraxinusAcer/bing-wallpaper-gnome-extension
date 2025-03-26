@@ -2,22 +2,23 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Fraxinus Acer <>, 2025.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: unnamed project\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-09 13:10+1000\n"
-"PO-Revision-Date: 2021-05-09 17:51+1000\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2025-03-26 17:59+0300\n"
+"Last-Translator: Fraxinus Acer <>\n"
+"Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.1\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Gtranslator 48.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: Settings.ui.h:1 Settings4.ui.h:2
 msgid "Hide the indicator"
@@ -25,11 +26,11 @@ msgstr "Скрыть индикатор"
 
 #: Settings.ui.h:2 Settings4.ui.h:3
 msgid "Indicator icon"
-msgstr ""
+msgstr "Иконка индикатора"
 
 #: Settings.ui.h:3 Settings4.ui.h:4
 msgid "Enable desktop notifications"
-msgstr ""
+msgstr "Разрешить уведомления на рабочем столе"
 
 #: Settings.ui.h:4 Settings4.ui.h:5 extension.js:129
 msgid "Set background image"
@@ -73,7 +74,7 @@ msgstr "Изменять автоматически выбранное разр�
 
 #: Settings.ui.h:14 Settings4.ui.h:13
 msgid "Selected image"
-msgstr ""
+msgstr "Выбранное изображение"
 
 #: Settings.ui.h:15 Settings4.ui.h:16 extension.js:132
 msgid "Settings"
@@ -81,55 +82,55 @@ msgstr "Настройки"
 
 #: Settings.ui.h:16 Settings4.ui.h:17
 msgid "Use custom blur and brightness"
-msgstr ""
+msgstr "Использовать "
 
 #: Settings.ui.h:17 Settings4.ui.h:18
 msgid "Override GDM3 lockscreen effects"
-msgstr ""
+msgstr "Перезаписать эффекты экрана блокировки GDM3"
 
 #: Settings.ui.h:18 Settings4.ui.h:19
 msgid "Blur can improve readability of login prompt"
-msgstr ""
+msgstr "Размытие может улучшить читаемость входа в систему"
 
 #: Settings.ui.h:19 Settings4.ui.h:20
 msgid "Background blur intensity"
-msgstr ""
+msgstr "Интенсивность размытия фона"
 
 #: Settings.ui.h:20 Settings4.ui.h:21
 msgid "Can improve contrast of login prompt"
-msgstr ""
+msgstr "Может улучшить контрастность запроса на вход в систему"
 
 #: Settings.ui.h:21 Settings4.ui.h:22
 msgid "Background brightness"
-msgstr ""
+msgstr "Яркость фона"
 
 #: Settings.ui.h:22 Settings4.ui.h:23
 msgid "Presets"
-msgstr ""
+msgstr "Предустановки"
 
 #: Settings.ui.h:23 Settings4.ui.h:24
 msgid "Commonly used presets"
-msgstr ""
+msgstr "Часто используемые предустановки"
 
 #: Settings.ui.h:24 Settings4.ui.h:25
 msgid "No blur, slight dim"
-msgstr ""
+msgstr "Без размытия, незначительное затемнение"
 
 #: Settings.ui.h:25 Settings4.ui.h:26
 msgid "GNOME default"
-msgstr ""
+msgstr "GNOME по умолчанию"
 
 #: Settings.ui.h:26 Settings4.ui.h:27
 msgid "Slight blur, slight dim"
-msgstr ""
+msgstr "Незначительное размытие, незначительное затемнение"
 
 #: Settings.ui.h:27 Settings4.ui.h:28
 msgid "Lock Screen"
-msgstr ""
+msgstr "Экран блокировки"
 
 #: Settings.ui.h:28 Settings4.ui.h:29
 msgid "New wallpaper images everyday from Bing"
-msgstr ""
+msgstr "Новые изображения обоев каждый день от Bing"
 
 #: Settings.ui.h:29 Settings4.ui.h:30
 msgid "Gnome shell extension version "
@@ -145,14 +146,17 @@ msgstr "Создано Майклом Кэрроллом"
 
 #: Settings.ui.h:32 Settings4.ui.h:33
 msgid ""
-"Show your support to the author on <a href=\"https://flattr.com/@neffo"
-"\">Flattr</a> or <a href=\"https://github.com/sponsors/neffo\">Github "
+"Show your support to the author on <a href=\"https://flattr.com/"
+"@neffo\">Flattr</a> or <a href=\"https://github.com/sponsors/neffo\">Github "
 "Sponsors</a>."
 msgstr ""
+"Показать вашу поддержку автора на <a href=\"https://flattr.com/"
+"@neffo\">Flattr</a> или <a href=\"https://github.com/sponsors/neffo\">Github "
+"Sponsors</a>."
 
 #: Settings.ui.h:33 Settings4.ui.h:34
 msgid "Changes since last version"
-msgstr ""
+msgstr "Изменения, внесенные с момента выхода последней версии"
 
 #: Settings.ui.h:34 Settings4.ui.h:35
 msgid "Based on NASA APOD Gnome shell extension by Elia Argentieri"
@@ -162,17 +166,18 @@ msgstr "Основано на расширении Gnome shell NASA APOD от Э
 #, fuzzy
 #| msgid ""
 #| "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\n"
-#| "See the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
-#| "\">GNU General Public License, version 3 or later</a> for details.</span>"
+#| "See the <a href=\"https://www.gnu.org/licenses/old-licenses/"
+#| "gpl-2.0.html\">GNU General Public License, version 3 or later</a> for "
+#| "details.</span>"
 msgid ""
 "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\n"
 "See the <a href=\"https://www.gnu.org/licenses/gpl-3.0.html\">GNU General "
 "Public License, version 3 or later</a> for details.</span>"
 msgstr ""
 "<span size=\"small\">Данное ПО поставляется без каких-либо гарантий.\n"
-"Смотри <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
-"\">GNU General Public License, версия 3 или позже</a>, чтобы узнать детали.</"
-"span>"
+"Смотри <a href=\"https://www.gnu.org/licenses/old-licenses/"
+"gpl-2.0.html\">GNU General Public License, версия 3 или позже</a>, чтобы "
+"узнать детали.</span>"
 
 #: Settings.ui.h:37 Settings4.ui.h:38
 msgid "About"
@@ -180,7 +185,7 @@ msgstr "О приложении"
 
 #: Settings4.ui.h:8
 msgid "Open folder"
-msgstr ""
+msgstr "Открыть папку"
 
 #: extension.js:117
 #, fuzzy
@@ -203,7 +208,7 @@ msgstr "Скопировать URL в буфер"
 
 #: extension.js:128
 msgid "Open image folder"
-msgstr ""
+msgstr "Открыть папку изображений"
 
 #: extension.js:131
 msgid "Refresh Now"
@@ -211,7 +216,7 @@ msgstr "Обновить сейчас"
 
 #: extension.js:137
 msgid "Thumbnail disabled on Wayland"
-msgstr ""
+msgstr "Эскизы отключены в Wayland"
 
 #: extension.js:203
 msgid "Next refresh"
@@ -227,7 +232,7 @@ msgstr "Установить обои"
 
 #: extension.js:498
 msgid "More info on Bing.com"
-msgstr ""
+msgstr "Подробнее на Bing.com"
 
 #: extension.js:553
 msgid "No wallpaper available"
@@ -239,15 +244,15 @@ msgstr "Нет изображения дня."
 
 #: prefs.js:173
 msgid "Most recent image"
-msgstr ""
+msgstr "Самое последнее изображение"
 
 #: prefs.js:174
 msgid "Random image"
-msgstr ""
+msgstr "Случайное изображение"
 
 #: prefs.js:190 prefs.js:206
 msgid "Disabled on current GNOME version"
-msgstr ""
+msgstr "Отключено в текущей версии GNOME"
 
 #: utils.js:139
 msgid "Fetching data..."
@@ -263,11 +268,11 @@ msgstr "Ошибка сети"
 
 #: utils.js:159
 msgid "Too many requests in 5 seconds"
-msgstr ""
+msgstr "Слишком много запросов за 5 секунд"
 
 #: utils.js:186
 msgid "No change log found for this release"
-msgstr ""
+msgstr "Список изменений для этого выпуска не найден"
 
 #: utils.js:366 utils.js:369
 msgid "minutes"
